@@ -452,6 +452,16 @@ footer{
     body{
         font-size: 10px;
     }
+    .main {
+        width: 100%;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        background: url(Services1.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
     .main h2{
         font-size: 1.1em;
     }
@@ -482,12 +492,6 @@ footer{
     }
     .main-content h2{
         font-size: 0.5em;
-    }
-    .main {
-        background: url(Screenshot\ 2024-08-19\ 125408.png);
-        background-size: auto;
-        background-position: 13%;
-
     }
     .card{
         width: 10em;
