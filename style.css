@@ -453,7 +453,7 @@ footer{
         font-size: 10px;
     }
     .main {
-        background-position: right center;
+        background-position-x:  50%;
     }
     .main h2{
         font-size: 1.1em;
