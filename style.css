@@ -454,6 +454,7 @@ footer{
     }
     .main {
         background-position-x:  50%;
+        background-size: 20%;
     }
     .main h2{
         font-size: 1.1em;
