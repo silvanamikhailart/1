@@ -453,14 +453,7 @@ footer{
         font-size: 10px;
     }
     .main {
-        width: 100%;
-        min-height: 100vh;
-        display: flex;
-        align-items: center;
-        background: url(Services1.jpg);
-        background-size: contain;
-        background-position: center;
-        background-attachment: fixed;
+        background-position: right center;
     }
     .main h2{
         font-size: 1.1em;
